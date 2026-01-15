@@ -101,11 +101,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/felipecordero/felipecordero.github.io/issues).
+- `Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/felipecordero/felipecordero.github.io/issues).`
 
 ## 📫 Contact
 
-For any questions or suggestions, please open an issue in the GitHub repository or visit [felipecordero.com](https://felipecordero.com).
+`For any questions or suggestions, please open an issue in the GitHub repository or visit [felipecordero.com](https://felipecordero.com).`
 
 ## 🚨 Important Note
 
